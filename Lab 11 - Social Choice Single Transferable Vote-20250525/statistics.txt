@@ -1,0 +1,12 @@
+============================================================
+SUMMARY STATISTICS
+============================================================
+Overall Statistics:
+  Mean exact match rate: 88.01%
+  Median exact match rate: 93.00%
+  Standard deviation: 14.19%
+  Min exact match rate: 33.90%
+  Max exact match rate: 100.00%
+
+Total experiments: 48
+Total k-value tests: 312
